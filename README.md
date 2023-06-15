@@ -1,13 +1,12 @@
-Projeto academico feito na linguagem C
-objetivo do projeto é criar uma calculadora 
-Apresentando as seguintes funções:
-i. Soma
-ii. Subtração
-iii. Divisão
-iv. Multiplicação
-v. Seno
-vi. Cosseno
-vii. Tangente
-viii. Exponenciação
-ix. Radiciação
-x. Cálculo das raízes de um polinômio do segundo grau
+Projeto academico feito na linguagem C <br>
+objetivo do projeto é criar uma calculadora, apresentando as seguintes funções:<br>
+i. Soma<br>
+ii. Subtração<br>
+iii. Divisão<br>
+iv. Multiplicação<br>
+v. Seno<br>
+vi. Cosseno<br>
+vii. Tangente<br>
+viii. Exponenciação<br>
+ix. Radiciação<br>
+x. Cálculo das raízes de um polinômio do segundo grau<br>
